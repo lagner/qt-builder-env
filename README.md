@@ -7,6 +7,6 @@ required to build Qt from source.
 
 ```
 sudo apt-get install equivs
-equivs-control qt-builder-env.cfg
+equivs-build qt-builder-env.cfg
 sudo apt-get install ./qt-builder-env_2.0_all.deb
 ```
